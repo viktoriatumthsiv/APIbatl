@@ -70,3 +70,13 @@ button:hover {
     margin-top: 5px;
     color: #7f8c8d;
 }
+.delete-btn {
+    background-color: #ff7675;
+    padding: 5px 10px;
+    font-size: 12px;
+    margin-top: 10px;
+    width: auto; /* Щоб вона не була на всю ширину */
+}
+.delete-btn:hover {
+    background-color: #d63031;
+}
