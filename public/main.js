@@ -4,7 +4,7 @@ async function load() {
     document.getElementById('list').innerHTML = data.map(d => `
         <div class="date-card">
             <b>${d.date}</b>: ${d.title} <br>
-            <small>✨ ${d.funFact}</small>
+            <small> ${d.funFact}</small>
         </div>
     `).join('');
 }
