@@ -8,6 +8,8 @@ async function load() {
         </div>
     `).join('');
 }
+
+
 async function addDate() {
     const body = {
         title: document.getElementById('title').value,

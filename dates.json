@@ -1,10 +1,17 @@
 [
-    {
-      "id": "1",
-      "title": "Приклад події",
-      "type": "general",
-      "date": "2026-01-01",
-      "reminder": true,
-      "funFact": "Це мій перший запис!"
-    }
-  ]
+  {
+    "id": "1",
+    "title": "Приклад події",
+    "type": "general",
+    "date": "2026-01-01",
+    "reminder": true,
+    "funFact": "Це мій перший запис!"
+  },
+  {
+    "id": "3f59d38b-171d-4faf-86f5-84c2f4aead0c",
+    "title": "день народження",
+    "date": "2026-01-29",
+    "funFact": "любить торт",
+    "reminder": true
+  }
+]
